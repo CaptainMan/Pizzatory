@@ -1,0 +1,20 @@
+# This folder contains the data the program runs on. It does not need to be
+# tracked, it's just the database if the program is run from the dev environment
+Pizzatory_Database_Files/
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Class Files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.earPizzatory_Database_Files/
